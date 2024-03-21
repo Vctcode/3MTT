@@ -5,6 +5,8 @@ yarn-error.log
 package-lock.json
 yarn.lock
 
+HospitalManagementSystem
+
 # Python
 __pycache__/
 *.pyc
